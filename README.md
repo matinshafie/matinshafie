@@ -6,4 +6,4 @@ this is my telegram user name: @Mohammad_matin_shafie.
 
 i have this very simple and terminal based library app written in python which is used for managing a library.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matinshafie&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=matinshafie&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
